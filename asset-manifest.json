@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/www-rlp/static/css/main.d978f023.chunk.css",
-    "main.js": "/www-rlp/static/js/main.1dcca2a4.chunk.js",
-    "main.js.map": "/www-rlp/static/js/main.1dcca2a4.chunk.js.map",
-    "runtime~main.js": "/www-rlp/static/js/runtime~main.414fc7fe.js",
-    "runtime~main.js.map": "/www-rlp/static/js/runtime~main.414fc7fe.js.map",
-    "static/js/2.aea729fc.chunk.js": "/www-rlp/static/js/2.aea729fc.chunk.js",
-    "static/js/2.aea729fc.chunk.js.map": "/www-rlp/static/js/2.aea729fc.chunk.js.map",
-    "index.html": "/www-rlp/index.html",
-    "precache-manifest.a41308e02e3152f515908744def61055.js": "/www-rlp/precache-manifest.a41308e02e3152f515908744def61055.js",
-    "service-worker.js": "/www-rlp/service-worker.js",
-    "static/css/main.d978f023.chunk.css.map": "/www-rlp/static/css/main.d978f023.chunk.css.map"
+    "main.css": "/rlp-debugger/static/css/main.624a61aa.chunk.css",
+    "main.js": "/rlp-debugger/static/js/main.fe1901dd.chunk.js",
+    "main.js.map": "/rlp-debugger/static/js/main.fe1901dd.chunk.js.map",
+    "runtime~main.js": "/rlp-debugger/static/js/runtime~main.8b4df669.js",
+    "runtime~main.js.map": "/rlp-debugger/static/js/runtime~main.8b4df669.js.map",
+    "static/js/2.215a7a99.chunk.js": "/rlp-debugger/static/js/2.215a7a99.chunk.js",
+    "static/js/2.215a7a99.chunk.js.map": "/rlp-debugger/static/js/2.215a7a99.chunk.js.map",
+    "index.html": "/rlp-debugger/index.html",
+    "precache-manifest.ec2bc251267743c9c0b81de823f61114.js": "/rlp-debugger/precache-manifest.ec2bc251267743c9c0b81de823f61114.js",
+    "service-worker.js": "/rlp-debugger/service-worker.js",
+    "static/css/main.624a61aa.chunk.css.map": "/rlp-debugger/static/css/main.624a61aa.chunk.css.map",
+    "static/media/CodechainLogo_White.svg": "/rlp-debugger/static/media/CodechainLogo_White.630f622f.svg",
+    "static/media/github.svg": "/rlp-debugger/static/media/github.11edc2fb.svg",
+    "static/media/gitter.svg": "/rlp-debugger/static/media/gitter.038f66f2.svg",
+    "static/media/medium.svg": "/rlp-debugger/static/media/medium.e5a5b160.svg",
+    "static/media/telegram.svg": "/rlp-debugger/static/media/telegram.afaec1a7.svg",
+    "static/media/twitter.svg": "/rlp-debugger/static/media/twitter.a2682b66.svg"
   }
 }
