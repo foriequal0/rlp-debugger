@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/rlp-debugger/precache-manifest.ec2bc251267743c9c0b81de823f61114.js"
+  "/rlp-debugger/precache-manifest.6b449a7738bd35519e398e866bc53f19.js"
 );
 
 self.addEventListener('message', (event) => {
